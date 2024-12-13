@@ -20,7 +20,7 @@
     <!-- Search Section -->
     <div class="row justify-content-center mb-5">
       <div class="col-md-6">
-        <div class="input-group">
+        <div class="input-group position-relative">
           <input
             type="text"
             placeholder="Search Wikipedia"
@@ -28,6 +28,8 @@
             class="form-control"
           >
           <button id="searchButton" class="btn btn-primary">Search</button>
+          <!-- Suggestion Dropdown -->
+          <ul id="suggestionList" class="list-group position-absolute w-100 d-none"></ul>
         </div>
       </div>
       <div class="col-md-2">
