@@ -29,7 +29,7 @@ body {
 #article {
   margin-top: 20px;
 }
-
+/* 
 .image-gallery {
   display: flex;
   flex-wrap: wrap;
@@ -58,4 +58,4 @@ body {
 .image-gallery img {
   max-width: 200px;
   margin-right: 10px;
-}
+} */
