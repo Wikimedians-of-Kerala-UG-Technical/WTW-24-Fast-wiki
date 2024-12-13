@@ -30,7 +30,7 @@ body {
   margin-top: 20px;
 }
 
-/* .image-gallery {
+.image-gallery {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -58,4 +58,4 @@ body {
 .image-gallery img {
   max-width: 200px;
   margin-right: 10px;
-} */
+}
